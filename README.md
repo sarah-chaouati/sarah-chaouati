@@ -3,8 +3,8 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 - 🏫 I'm Student at La Plateforme_ since 2019 
-- 🌱 I’m currently learning Python and different type of algorithms
-- 💬 I'm looking for: Work-study contract (February 2022)
+- 🌱 I’m currently learning Python, node.js and different type of algorithms
+- 💬 I'm looking for: I am currently taking a mini break
 - ⚡ Fun fact: I practice Krav Maga, and if you feed me, we can become friend!
 - 💾 <a href=https://sarah-chaouati.students-laplateforme.io/cvsarah2021.pdf> CV </a>
 
